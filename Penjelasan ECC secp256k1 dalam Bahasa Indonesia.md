@@ -7,6 +7,10 @@ $$P = k \times G$$
 
 Ini bukan perkalian matematika SD ya, ini perkalian titik di kurva eliptik, tapi biar gampang kita bayangin kayak gembok sandi scroll aja. Aku punya tiga gambar gembok di sini yang bakal jelasin kenapa rumus ini bikin hacker paling jago sekalipun bakal angkat tangan. Yuk, kita bedah satu-satu mulai dari titik nolnya...
 
+
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/f39b0c8e-a8f4-4db0-9b19-27fbcb7147bb" />
+gembok yang mau dipakai simulasi adalah seperti ini, cuma kombinasinya 78 kombinasi scroll gear (setara dengan 2^256). Bukan hanya 3 kombinasi seperti gambar.
+
 --
 
 **1. Titik Awal: Generator Point ($G$) — [Gambar 1]**
