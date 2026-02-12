@@ -10,7 +10,7 @@ Ini bukan perkalian matematika SD ya, ini perkalian titik di kurva eliptik, tapi
 
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/f39b0c8e-a8f4-4db0-9b19-27fbcb7147bb" />
 
-Gembok yang mau dipakai simulasi adalah seperti ini, cuma kombinasinya 78 kombinasi scroll gear (setara dengan 2^256). Bukan hanya 3 kombinasi seperti gambar.
+Gembok yang mau dipakai simulasi adalah seperti ini, cuma kombinasinya 78 kombinasi scroll gear, masing2 nya dari angka 1 - 9 (setara dengan $2^{256}$). Bukan hanya 3 kombinasi seperti gambar.
 
 --
 
