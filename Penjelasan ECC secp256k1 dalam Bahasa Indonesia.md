@@ -5,7 +5,7 @@ Pernah nggak kepikiran, gimana cara Bitcoin jagain duit triliunan orang cuma pak
 
 $$P = k \times G$$
 
-Ini bukan perkalian matematika SD ya, ini perkalian titik di kurva eliptik, tapi biar gampang kita bayangin kayak gembok sandi scroll aja. Gue punya tiga gambar gembok di sini yang bakal jelasin kenapa rumus ini bikin hacker paling jago sekalipun bakal angkat tangan. Yuk, kita bedah satu-satu mulai dari titik nolnya...
+Ini bukan perkalian matematika SD ya, ini perkalian titik di kurva eliptik, tapi biar gampang kita bayangin kayak gembok sandi scroll aja. Aku punya tiga gambar gembok di sini yang bakal jelasin kenapa rumus ini bikin hacker paling jago sekalipun bakal angkat tangan. Yuk, kita bedah satu-satu mulai dari titik nolnya...
 
 --
 
