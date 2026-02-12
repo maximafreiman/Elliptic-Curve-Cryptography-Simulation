@@ -1,7 +1,9 @@
 Simplifikasi penjelasan Elliptic Curve Cryptography secp256k1 dengan Bahasa Manusia
 --
 
-Pernah nggak kepikiran, gimana cara Bitcoin jagain duit triliunan orang cuma pakai matematika? Nah, rahasianya ada di sebuah gembok digital yang namanya ECC secp256k1.Nama 'secp256k1' mungkin terdengar kayak kode rahasia agen intelijen, tapi aslinya ini cuma aturan main matematika untuk memutar tuas gembok raksasa kita. Logikanya simpel banget dan bisa dirangkum dalam satu rumus maut:
+Pernah nggak kepikiran, gimana cara Bitcoin jagain duit triliunan orang cuma pakai matematika? Nah, rahasianya ada di sebuah gembok digital yang namanya ECC secp256k1.
+
+Nama 'secp256k1' mungkin terdengar kayak kode rahasia agen intelijen, tapi aslinya ini cuma aturan main matematika untuk memutar tuas gembok raksasa kita. Logikanya simpel banget dan bisa dirangkum dalam satu rumus maut:
 
 $$P = k \times G$$
 
