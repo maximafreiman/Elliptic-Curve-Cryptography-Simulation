@@ -21,7 +21,7 @@ Gembok yang mau dipakai simulasi adalah seperti ini, cuma kombinasinya 78 roda a
 
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/38ec3bf0-5cc6-478f-838a-f540490298ab" />
 
-Semua dimulai dari Gambar 1, yaitu kondisi gembok dengan 78 roda angka yang semuanya disetel di angka 000...0.
+Semua dimulai dari Gambar 1, yaitu kondisi gembok dengan 78 digit yang semuanya disetel di angka 000...0.
 - Dalam rumus, ini adalah $G$.
 - Ini adalah standar global yang diketahui semua orang. Semua gembok "diproduksi" dari titik nol yang sama ini.
 
@@ -31,7 +31,7 @@ Semua dimulai dari Gambar 1, yaitu kondisi gembok dengan 78 roda angka yang semu
 
 Inilah kunci yang kamu simpan rapat-rapat.
 - Dalam rumus, ini adalah $k$.
-- Ini adalah sebuah kombinasi angka acak antara 1 sampai $2^{256}$ (angka 78 roda angka dalam gembok itu.).
+- Ini adalah sebuah kombinasi angka acak antara 1 sampai $2^{256}$ (angka 78 digit dalam gembok itu.).
 - Bayangkan $k$ adalah jumlah putaran yang kamu lakukan. Kamu memerintahkan mesin untuk memutar gembok dari Gambar 1 (Nol) sebanyak $k$ kali. Karena kamu punya angkanya, kamu bisa sampai ke tujuan secara instan.
 
 
